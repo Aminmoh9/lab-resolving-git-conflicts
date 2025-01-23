@@ -24,6 +24,4 @@ I am not sure as of now but I will be able to decide as I learn more about data 
 I think I will be a direcor a tech company.
 * What is your career goal?
 To keep learning and be able to lead a company one day.
-* Would love to get into the tech industry.
-* I will look for patterns in data where people are not even looking.
-* To enjoy myself.
+
