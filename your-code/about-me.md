@@ -19,7 +19,7 @@ I think most importantly python plus being able to understand how vast amount of
 I will apply for the jobs that require the skills I will learn from Ironhack data science program.
 
 * Which industry will you seek employment in?
-I am not sure as of now but I will be able to decide as I learn more about data science and coding.
+I am not sure as of now but I will be able to decide as I learn more about data science.
 * What will your future role look like?
 I think I will be a direcor a tech company.
 * What is your career goal?
