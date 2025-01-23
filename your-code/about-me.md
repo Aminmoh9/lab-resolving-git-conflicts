@@ -1,8 +1,8 @@
 
 # Who am I
 
-* I was born in Venezuela but moved to Algarve when I was 13.
-* I have a PhD in Neuroscience but have no intention of staying in academia.
+* I was born in Afghanista but moved to Germany when I was 29.
+* I have a Bachelor in Business Administration.
 * I have some experience analyzing data from my own experiments but no formal training whatsoever.
 
 # Why am I here
@@ -12,6 +12,6 @@
 
 # What will I do after the course?
 
-* Would love to get into the sports industry.
+* Would love to get into the tech industry.
 * I will look for patterns in data where people are not even looking.
 * To enjoy myself.
